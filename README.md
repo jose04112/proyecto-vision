@@ -1,4 +1,4 @@
-# Sistema de Visión Artificial e Inteligencia Artificial
+# Generación de conjuntos de entrenamiento para detección y reconocimiento de objetos de ensamble mediante un sistema de visión 
 
 Este repositorio contiene la documentación, script y cuadernos de entrenamiento para el sistema de detección y reconocimiento de objetos de ensamble.
 
