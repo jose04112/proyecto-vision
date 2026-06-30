@@ -32,7 +32,7 @@ Los archivos con los pesos óptimos obtenidos tras los entrenamientos se encuent
 2. **Detección y Segmentación (YOLOv11):** El modelo YOLO procesa los cuadros para detectar y localizar espacialmente los componentes de ensamble.
 3. **Clasificación Contextual (CLIP):** Las regiones de interés detectadas son evaluadas por el modelo CLIP para clasificar el estado actual del proceso (por ejemplo, determinar si se encuentra en estado de "ensamble" o "desensamble").
 
-### Descripción de Componentes Clave
+### Componentes Clave
 
 * **`requirements.txt`**: Archivo de dependencias que instala el entorno necesario 
 * **`vision/`**: Contiene la lógica del sistema y los scripts de ejecución principal.
